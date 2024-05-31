@@ -1,2 +1,2 @@
 # hacking_apis
-repo to Hacking APIs book and labs
+repo for Hacking APIs book and labs
